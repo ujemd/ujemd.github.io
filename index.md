@@ -27,6 +27,7 @@ Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Ima
 
 ## Languages
 
+| head1     | head two| three       |
 |:----------|:--------|:------------|
 | Spanish   | Native  |             |
 | English   | C1      | IELTS - 7.5 |
@@ -34,6 +35,7 @@ Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Ima
 
 ## Programming Languages
 
+| head1     | head two  |
 |:----------|:----------|
 | Python    | 1+ years  |
 | Matlab    | 6+ years  |
