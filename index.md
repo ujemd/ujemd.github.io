@@ -1,41 +1,50 @@
-## About me
+## About Me
 
 Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Image Processing and Computer Vision
 
-## Welcome to GitHub Pages
+## Contact
 
-You can use the [editor on GitHub](https://github.com/ujemd/ujemd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- Email: david.moreno@ieee.org
+- Telephone: (+34) 692 93 85 89
+- LinkedIn: https://www.linkedin.com/in/david-moreno-villamarin/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+- Université de Bordeaux, Universidad Autónoma de Madrid, Pázmany Péter Katolikus Egyetem - MSc Image Processing and Computer Vision (2019 -- Present): Fully funded Erasmus+ student.
+- Pontificia Universidad Javeriana de Cali - BSc in Electronics Engineering (2010-2017): Honor distinction for Thesis _Natural Scene Statistics of Long Wave Infrared and Visible Images_, Merit awards.
+- Karslruhe Institute of Technology (2015): Exchange semester, DAAD scholarship.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research
 
-```markdown
-Syntax highlighted code block
+- Université de Bordeaux, Universidad Autónoma de Madrid, Pázmany Péter Katolikus Egyetem - Object Detection in Wide-angle/Immersive Image Formats (01/2019 - Present): Analysis of effects of projections and distortions in object detection in omnidirectional images. Deep learning approaches for object detection in spherical images.
+- [Predicting the Quality of Fused Long Wave Infrared and Visible Light Images](https://ieeexplore.ieee.org/document/7904687): published in [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+- [Statistics of Natural Fused Image Distortions](https://ieeexplore.ieee.org/document/7952355): presented at [ICASSP 2017](http://www.ieee-icassp2017.org/)
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+- VASS LATAM - Programmer SOA (2017-2018): Developer of key software components for AXA as a consultant programmer.
+- Continental Automotive GmbH - R&D Intern (2015): Upgraded a software tool for reporting the performance of electronic control units in the department of fuel and exhaust management. Achieved greater insights of results and developed new test metrics.
 
-1. Numbered
-2. List
+## Languages
 
-**Bold** and _Italic_ and `Code` text
+| Spanish   | Native  |             |
+| English   | C1      | IELTS - 7.5 |
+| German    | B2      | TestDaF     |
 
-[Link](url) and ![Image](src)
-```
+## Programming Languages
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| Python    | 1+ years  |
+| Matlab    | 6+ years  |
+| C++       | 3+ years  |
+| C         | 2+ years  |
+| C#        | 1+ years  |
 
-### Jekyll Themes
+**Data Science:** Numpy, Pandas, SciKit Learn, Keras
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ujemd/ujemd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Awards
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Erasmus Mundus Joint Master Degree Scholarship 2018-2020: Selected among worldwide applicants to be part of an intercultural cohort and carry out fully-funded graduate studies in three European universities.
+- Meritorious Honor Distinction of Undergraduate Thesis
+- Xaverian Academic Merit Award 2017: Best graduating electronics engineering student
+- ICASSP 2017 travel grant and lecture presentation: About _Statistics of Natural Fused Image Distortions_ in New Orleans, USA
+- DAAD "Young Engineers" Scholarship 2014-2015: Selected as one of the 6 best students of the Engineering Faculty of the Pontificia Universidad Javeriana for an all inclusive exchange program in Germany
