@@ -27,11 +27,11 @@ Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Ima
 
 ## Languages
 
-| head1     | head two| three       |
-|:----------|:--------|:------------|
-| Spanish   | Native  |             |
-| English   | C1      | IELTS - 7.5 |
-| German    | B2      | TestDaF     |
+| head1     | head two| three       | | oli |
+|:----------|:--------|:------------| |:----|
+| Spanish   | Native  |             | |a    |
+| English   | C1      | IELTS - 7.5 | |b    |
+| German    | B2      | TestDaF     | |b    |
 
 ## Programming Languages
 
