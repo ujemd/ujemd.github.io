@@ -2,3 +2,10 @@ theme: jekyll-theme-minimal
 title: David Eduardo MORENO VILLAMARIN
 description: MSc in Image Processing and Compturer Vision
 logo: "img/my-vcard.png"
+
+social-network-links:
+  rss: true
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
