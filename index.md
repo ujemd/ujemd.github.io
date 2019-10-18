@@ -27,12 +27,14 @@ Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Ima
 
 ## Languages
 
+|:----------|:--------|:------------|
 | Spanish   | Native  |             |
 | English   | C1      | IELTS - 7.5 |
 | German    | B2      | TestDaF     |
 
 ## Programming Languages
 
+|:----------|:----------|
 | Python    | 1+ years  |
 | Matlab    | 6+ years  |
 | C++       | 3+ years  |
