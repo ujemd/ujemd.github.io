@@ -1,3 +1,7 @@
+## About me
+
+Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Image Processing and Computer Vision
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ujemd/ujemd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
