@@ -6,7 +6,7 @@ Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Ima
 
 - Email: david.moreno@ieee.org
 - Telephone: (+34) 692 93 85 89
-- LinkedIn: https://www.linkedin.com/in/david-moreno-villamarin/
+- [LinkedIn](https://www.linkedin.com/in/david-moreno-villamarin/)
 
 ## Education
 
