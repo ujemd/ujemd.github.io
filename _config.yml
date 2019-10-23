@@ -1,7 +1,22 @@
-remote_theme: "mmistakes/minimal-mistakes@4.17.1"
-title: David Eduardo MORENO VILLAMARIN
+remote_theme             : "mmistakes/minimal-mistakes@4.17.1"
+minimal_mistakes_skin    : "contrast"
+
+# Site settings
+title                    : David Eduardo MORENO VILLAMARIN
+subtitle                 : Compturer Vision Engineer
 description: Compturer Vision Engineer
 logo: "img/my-vcard.png"
+
+links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:david.moreno@ieee.org
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "ujemd.github.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ujemd?tab=repositories"
 
 plugins:
   - jekyll-paginate
@@ -9,8 +24,3 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
-social-network-links:
-  rss: true
-  email: "david.moreno@ieee.org"
-  github: ujemd
