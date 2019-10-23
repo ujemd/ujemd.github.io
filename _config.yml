@@ -18,6 +18,9 @@ links:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ujemd?tab=repositories"
 
+# Outputting
+permalink: /:categories/:title/
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
