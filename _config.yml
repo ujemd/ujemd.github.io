@@ -105,7 +105,7 @@ social:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/img/david-moreno.jpg"
-  bio              : "Just a computer vision grad student, electronics engineer and Erasmus+ scholar who happens to also love traveling."
+  bio              : "Just a computer vision grad student, electronics engineer and Erasmus+ scholar who also loves traveling."
   location         : "Pessac, France"
   links:
     - label: "Email"
