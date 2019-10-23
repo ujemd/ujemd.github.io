@@ -1,4 +1,3 @@
-## About Me
 
 Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Image Processing and Computer Vision
 
