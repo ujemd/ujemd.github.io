@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: " "
-layout: page
+layout: single
 toc: true
 ---
 
