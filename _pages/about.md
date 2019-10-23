@@ -1,12 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 excerpt: " "
 layout: single
 toc: true
 ---
-
-## About Me
 
 Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Image Processing and Computer Vision
 
@@ -57,6 +55,6 @@ Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Ima
 
 - Erasmus Mundus Joint Master Degree Scholarship 2018-2020: Selected among worldwide applicants to be part of an intercultural cohort and carry out fully-funded graduate studies in three European universities.
 - Meritorious Honor Distinction of Undergraduate Thesis
-- Xaverian Academic Merit Award 2017: Best graduating electronics engineering student
+- Xaverian Academic Merit Award: Best graduating electronics engineering student
 - ICASSP 2017 travel grant and lecture presentation: About _Statistics of Natural Fused Image Distortions_ in New Orleans, USA
-- DAAD "Young Engineers" Scholarship 2014-2015: Selected as one of the 6 best students of the Engineering Faculty of the Pontificia Universidad Javeriana for an all inclusive exchange program in Germany
+- DAAD "Young Engineers" Scholarship 2014-2015: Selected as one of the 6 best students of the Engineering Faculty of the Pontificia Universidad Javeriana for a fully funded exchange program in Germany
