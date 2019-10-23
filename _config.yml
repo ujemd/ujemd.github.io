@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.17.1"
 title: David Eduardo MORENO VILLAMARIN
 description: Compturer Vision Engineer
 logo: "img/my-vcard.png"
