@@ -52,8 +52,8 @@ reCaptcha:
   siteKey                : # "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
   secret                 : # "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
 
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+#atom_feed:
+#  path                   : # blank (default) uses feed.xml
 
 search                   : false # true, false (default)
 search_full_content      : false # true, false (default)
@@ -87,6 +87,10 @@ social:
   name                   : David Moreno # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://github.com/ujemd?tab=repositories"
+    - "https://www.linkedin.com/in/david-moreno-villamarin/"
+    - "https://ieeexplore.ieee.org/document/7904687"
+    - "https://ieeexplore.ieee.org/document/7952355/"
+    - "http://ipcv.eu/alumni/"
     #- "https://www.facebook.com/michaelrose"
 
 # Analytics
@@ -113,6 +117,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ujemd?tab=repositories"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
 
 
 # Site Footer
@@ -203,16 +209,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+  #    path: ""
+  #    type: posts
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    read_time: true
+  #    comments: true
+  #    share: true
+  #    related: true
   # _pages
   - scope:
       path: "_pages"
