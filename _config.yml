@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: owner/name
 title: David Eduardo MORENO VILLAMARIN
 description: Compturer Vision Engineer
 logo: "img/my-vcard.png"
