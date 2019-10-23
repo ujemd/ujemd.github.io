@@ -3,6 +3,13 @@ title: David Eduardo MORENO VILLAMARIN
 description: Compturer Vision Engineer
 logo: "img/my-vcard.png"
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
 social-network-links:
   rss: true
   email: "david.moreno@ieee.org"
