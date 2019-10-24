@@ -42,7 +42,7 @@ nss_gallery:
     alt: "SVM results"
 complex_gallery:
   - url: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/master/img/r.5.gif
-    image_path: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/blob/master/img/r.5.gif
+    image_path: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/master/img/r.5.gif
     alt: "r.5"
   - url: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/master/img/r.75.gif
     image_path: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/master/img/r.75.gif
