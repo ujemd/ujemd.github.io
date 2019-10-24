@@ -38,4 +38,6 @@ Small demonstration of the work presented in:
 Which proposes fused image quality metrics and presents a subjective human study for their construction and validation. Files included are: the Matlab implementation of an *opinion distortion unaware* and an *opinion aware fused image quality analyzer*, the original raw opinion scores, Z-scores after subject rejection, and Differential Mean Opinion Scores (DMOS). Please refer to the ![repository](https://github.com/ujemd/NSS-of-LWIR-and-Vissible-Images).
 
 ![morrisgra](../nss/MorrisGra.png)
+
 *Fused LWIR-visible light image*
+
