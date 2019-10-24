@@ -26,6 +26,13 @@ dist_gallery:
   - url: ../nss/blur.png
     image_path: ../nss/blur.png
     alt: "Blur"
+vmmc_gallery:
+  - url: ../vmmc/scene.jpeg
+    image_path: ../vmmc/scene.jpeg
+    alt: "Scene"
+  - url: ../vmmc/vmmc.gif
+    image_path: ../vmmc/vmmc.gif
+    alt: "Point cloud"
 nss_gallery:
   - url: ../nss/distortionFeatures.png
     image_path: ../nss/distortionFeatures.png
@@ -59,6 +66,15 @@ Reconstruction of a mouse volume using filtered backprojection. The Matlab imple
 
 ![mouse](../tibs/mouse.gif){:height="50%" width="50%"}
 
+## Vision for Multiple/Moving Cameras
+
+### 3D Reconstruction
+
+Reconstruction of a scene by extracting and matching interest points. The points were detected using the KAZE detector, and
+their features are provided by the DSP-SIFT descriptor. The reconstruction process consists of extracting the fundamental matrix, applying projective bundle adjustment and finally obtaining an Euclidean reconstruction.
+
+{% include gallery id="vmmc_gallery" caption="Scene and its point cloud." %}
+
 ## Natural Scene Statistics of Fused Long Wave Infrared and Visible Light Images
 
 This is an image processing piece about quality assessment, which can be found puclicly in IEEE Transactions on Image Processing: ["Predicting the Quality of Fused Long Wave Infrared and Visible Light Images"](http://ieeexplore.ieee.org/document/7904687/), David-Moreno D.E., Benítez-Restrepo H.D., Bovik A.C. This work proposes fused image quality metrics and presents a subjective human study for their construction and validation. Please refer to the [repository](https://github.com/ujemd/NSS-of-LWIR-and-Vissible-Images) for more details about the implementation.
@@ -66,4 +82,3 @@ This is an image processing piece about quality assessment, which can be found p
 {% include gallery id="dist_gallery" caption="Examples of distortions occurring to fused LWIR-visible light images." %}
 
 {% include gallery id="nss_gallery" caption="Scatter plot of features extracted from distorted images / Scatter plot for our metric prediction scores vs subjective scores." %}
-
