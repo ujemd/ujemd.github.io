@@ -44,14 +44,14 @@ complex_gallery:
   - url: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/master/img/r.5.gif
     image_path: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/blob/master/img/r.5.gif
     alt: "r.5"
-  - url: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/blob/master/img/r.75.gif
-    image_path: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/blob/master/img/r.75.gif
+  - url: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/master/img/r.75.gif
+    image_path: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/master/img/r.75.gif
     alt: "r.75"
-  - url: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/blob/master/img/r1.25.gif
-    image_path: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/blob/master/img/r1.25.gif
+  - url: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/master/img/r1.25.gif
+    image_path: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/master/img/r1.25.gif
     alt: "r1.25"
-  - url: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/blob/master/img/r1.gif
-    image_path: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/blob/master/img/r1.gif
+  - url: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/master/img/r1.gif
+    image_path: https://raw.githubusercontent.com/ujemd/ComplexAnalysis/master/img/r1.gif
     alt: "r1"
 toc: true
 ---
