@@ -30,7 +30,7 @@ nss_gallery:
   - url: ../nss/distortionFeatures.png
     image_path: ../nss/distortionFeatures.png
     alt: "Distortion features"
-    - url: ../nss/SVM-scatter.png
+  - url: ../nss/SVM-scatter.png
     image_path: ../nss/SVM-scatter.png
     alt: "SVM results"
 toc: true
