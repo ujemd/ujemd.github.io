@@ -8,12 +8,6 @@ toc: true
 
 Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Image Processing and Computer Vision
 
-## Contact
-
-- Email: [david.moreno@ieee.org](mailto:david.moreno@ieee.org)
-- Telephone: (+34) 692 93 85 89
-- [LinkedIn](https://www.linkedin.com/in/david-moreno-villamarin/)
-
 ## Education
 
 - Université de Bordeaux, Universidad Autónoma de Madrid, Pázmany Péter Katolikus Egyetem - [MSc Image Processing and Computer Vision](ipcv.eu) (2019 - Present): Fully funded Erasmus+ student.
