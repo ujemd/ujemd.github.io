@@ -2,8 +2,8 @@
 main:
   #- title: "David Eduardo MORENO VILLAMARIN"
   #  url: https://ujemd.github.io
-  - title: "About"
-    url: https://ujemd.github.io/about/
+  - title: "Résumé"
+    url: https://ujemd.github.io/resume/
   - title: "Projects"
     url: https://ujemd.github.io/projects/
   #- title: "Sample Posts"
