@@ -27,8 +27,8 @@ dist_gallery:
     image_path: ../nss/blur.png
     alt: "Blur"
 vmmc_gallery:
-  - url: ../vmmc/scene.jpeg
-    image_path: ../vmmc/scene.jpeg
+  - url: ../vmmc/scene.jpg
+    image_path: ../vmmc/scene.jpg
     alt: "Scene"
   - url: ../vmmc/vmmc.gif
     image_path: ../vmmc/vmmc.gif
