@@ -40,6 +40,19 @@ nss_gallery:
   - url: ../nss/SVM-scatter.png
     image_path: ../nss/SVM-scatter.png
     alt: "SVM results"
+complex_gallery:
+  - url: https://github.com/ujemd/ComplexAnalysis/blob/master/img/r.5.gif
+    image_path: https://github.com/ujemd/ComplexAnalysis/blob/master/img/r.5.gif
+    alt: "r.5"
+  - url: https://github.com/ujemd/ComplexAnalysis/blob/master/img/r.75.gif
+    image_path: https://github.com/ujemd/ComplexAnalysis/blob/master/img/r.75.gif
+    alt: "r.75"
+  - url: https://github.com/ujemd/ComplexAnalysis/blob/master/img/r1.25.gif
+    image_path: https://github.com/ujemd/ComplexAnalysis/blob/master/img/r1.25.gif
+    alt: "r1.25"
+  - url: https://github.com/ujemd/ComplexAnalysis/blob/master/img/r1.gif
+    image_path: https://github.com/ujemd/ComplexAnalysis/blob/master/img/r1.gif
+    alt: "r1"
 toc: true
 ---
 
@@ -82,3 +95,11 @@ This is an image processing piece about quality assessment, which can be found p
 {% include gallery id="dist_gallery" caption="Examples of distortions occurring to fused LWIR-visible light images." %}
 
 {% include gallery id="nss_gallery" caption="Scatter plot of features extracted from distorted images / Scatter plot for our metric prediction scores vs subjective scores." %}
+
+## Complex Analysis
+
+### Tinkering with Julia and Mandelbrot sets
+
+Visualisation of the filled-in Julia set and the Mandelbrot set. A simple implementation provided in C# can be found in [here](https://github.com/ujemd/ComplexAnalysis).
+
+{% include gallery id="complex_gallery" caption="Representations of the filled-in Julia set." %}
