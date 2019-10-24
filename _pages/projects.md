@@ -75,7 +75,7 @@ Classification of stationary objects into abandoned or stolen, based on the pape
 
 ### 3D Image Reconstruction
 
-Reconstruction of a mouse volume using filtered backprojection. The Matlab implementation can be found in the ![repository](https://github.com/ujemd/3DFilteredBackProjection).
+Reconstruction of a mouse volume using filtered backprojection. The Matlab implementation can be found in the [repository](https://github.com/ujemd/3DFilteredBackProjection).
 
 ![mouse](../tibs/mouse.gif){:height="50%" width="50%"}
 
