@@ -19,7 +19,7 @@ background-weighted histogram_ by Ning et al. ![Repository.](https://github.com/
 
 Classification of statinary objects into abandoned or stolen, based on the paper _Robust unattended and stolen object detection by fusing simple algorithms_ by San Miguel and Martinez (![Reference](https://ieeexplore.ieee.org/document/4730375)). 
 
-![abandoned](../mst/abandoned.gif){:height="50%" width="50%"}
+![abandoned](../mst/abandoned.gif){:height="80%" width="80%"}
 
 ## Tomography and 3D Imaging
 
