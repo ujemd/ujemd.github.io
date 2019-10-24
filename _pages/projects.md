@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "About me"
+title: "Projects"
 excerpt: " "
 layout: single
 toc: true
@@ -29,3 +29,13 @@ Reconstruction of a mouse volume using filtered backprojection. ![Repository.](h
 
 ![mouse](../tibs/mouse.gif){:height="50%" width="50%"}
 
+## Natural Scene Statistics of Fused Long Wave Infrared and Visible Light Images
+
+Small demonstration of the work presented in:
+
+["Predicting the Quality of Fused Long Wave Infrared and Visible Light Images"](http://ieeexplore.ieee.org/document/7904687/), David-Moreno D.E., Benítez-Restrepo H.D., Bovik A.C.
+
+Which proposes fused image quality metrics and presents a subjective human study for their construction and validation. Files included are: the Matlab implementation of an *opinion distortion unaware* and an *opinion aware fused image quality analyzer*, the original raw opinion scores, Z-scores after subject rejection, and Differential Mean Opinion Scores (DMOS). Please refer to the ![repository](https://github.com/ujemd/NSS-of-LWIR-and-Vissible-Images).
+
+![morrisgra](../nss/MorrisGra.png)
+*Fused LWIR-visible light image*
