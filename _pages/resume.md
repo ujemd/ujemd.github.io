@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /resume/
 title: "About me"
 excerpt: " "
 layout: single
