@@ -92,7 +92,7 @@ their features are provided by the DSP-SIFT descriptor. The reconstruction proce
 
 This is an image processing piece about quality assessment, which can be found puclicly in IEEE Transactions on Image Processing: ["Predicting the Quality of Fused Long Wave Infrared and Visible Light Images"](http://ieeexplore.ieee.org/document/7904687/), David-Moreno D.E., Benítez-Restrepo H.D., Bovik A.C. This work proposes fused image quality metrics and presents a subjective human study for their construction and validation. Please refer to the [repository](https://github.com/ujemd/NSS-of-LWIR-and-Vissible-Images) for more details about the implementation.
 
-{% include gallery id="dist_gallery" caption="Examples of distortions occurring to fused LWIR-visible light images." %}
+{% include gallery id="dist_gallery" caption="Examples of distortions (Gaussian, JPEG compression, Non-uniformity, blur) occurring to fused LWIR-visible light images." %}
 
 {% include gallery id="nss_gallery" caption="Scatter plot of features extracted from distorted images / Scatter plot for our metric prediction scores vs subjective scores." %}
 
