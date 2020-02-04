@@ -22,6 +22,7 @@ Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Ima
 
 ## Experience
 
+- Vicomtech - Research Intern (2020): Real-time Human Pose Estimation for Artistic Visual Effects.
 - VASS LATAM - Programmer SOA (2017-2018): Developer of key software components for AXA as a consultant programmer.
 - Continental Automotive GmbH - R&D Intern (2015): Upgraded a software tool for reporting the performance of electronic control units in the department of fuel and exhaust management. Achieved greater insights of results and developed new test metrics.
 
