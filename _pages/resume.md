@@ -10,7 +10,7 @@ Currently in the second year of the Erasmus+ Mundus Joint Master's Degree in Ima
 
 ## Education
 
-- Université de Bordeaux, Universidad Autónoma de Madrid, Pázmany Péter Katolikus Egyetem - [MSc Image Processing and Computer Vision](ipcv.eu) (2019 - Present): Fully funded Erasmus+ student.
+- Université de Bordeaux, Universidad Autónoma de Madrid, Pázmany Péter Katolikus Egyetem - [MSc Image Processing and Computer Vision](http://ipcv.eu) (2019 - Present): Fully funded Erasmus+ student.
 - Pontificia Universidad Javeriana de Cali - BSc in Electronics Engineering (2010-2017): Honor distinction for Thesis _Natural Scene Statistics of Long Wave Infrared and Visible Images_, Merit awards.
 - Karslruhe Institute of Technology (2015): Exchange semester, DAAD scholarship.
 
