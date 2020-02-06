@@ -113,7 +113,7 @@ author:
       url: mailto:david.moreno@ieee.org
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "ujemd.github.com"
+      url: "https://ujemd.github.io/projects"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ujemd?tab=repositories"
