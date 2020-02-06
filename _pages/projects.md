@@ -62,7 +62,7 @@ toc: true
 
 A fun project where we created a window to a virtual 3D world :-) The algorithm works by detecting the user's face and estimating its 3D position with respect to a camera. With this information, the program is able to simulate a head-coupled perspective. This application is mainly based in this [article](https://medium.com/@michel.brisis/off-axis-projection-in-unity-1572d826541e), and our repository can be found [here](https://github.com/ujemd/off-axis-projection-unity).
 
-![hc-pers](https://raw.githubusercontent.com/ujemd/off-axis-projection-unity/blob/master/img/head-coupled-perspective.gif){:height="85%" width="85%"}
+![hc-pers](https://raw.githubusercontent.com/ujemd/off-axis-projection-unity/master/img/head-coupled-perspective.gif){:height="85%" width="85%"}
 
 ## Video Analysis
 
