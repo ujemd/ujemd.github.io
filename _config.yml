@@ -6,9 +6,9 @@ minimal_mistakes_skin    : "contrast"
 locale                   : "en-US"
 title                    : "David Eduardo MORENO VILLAMARIN"
 title_separator          : "-"
-subtitle                 : "Compturer Vision Engineer"
+subtitle                 : "Computer Vision Engineer"
 name                     : &name "David Moreno" # &name is a YAML anchor which can be *referenced later
-description              : &description "Compturer Vision Engineer"
+description              : &description "Computer Vision Engineer"
 url                      : https://ujemd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 #repository               : "mmistakes/minimal-mistakes"
@@ -105,7 +105,7 @@ social:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/img/david-moreno.jpg"
-  bio              : "Computer vision grad student, electronics engineer, Erasmus+ scholar and potterhead."
+  bio              : "Computer vision grad student, electronics engineer, DAAD alumnus, IEEE student, Erasmus+ scholar and potterhead."
   location         : "San Sebastian, Spain"
   links:
     - label: "Email"
