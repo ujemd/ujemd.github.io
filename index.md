@@ -17,6 +17,7 @@
 
 ## Experience
 
+- Fraunhofer HHI - Researcher (01/2021 - Present)
 - Vicomtech - Research Intern (02/2020 - 06/2020): Developer of digital media applications of audience interaction with visual effects during concerts and festivals.
 - VASS LATAM - Programmer SOA (10/2017 - 07/2018): Developer of key software components for AXA as a consultant programmer.
 - Continental Automotive GmbH - R&D Intern (04/2015 - 08/2015): Upgraded a software tool for reporting the performance of electronic control units in the department of fuel and exhaust management. Achieved greater insights of results and developed new test metrics.
