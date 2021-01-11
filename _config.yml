@@ -106,7 +106,7 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/img/david-moreno.jpg"
   bio              : "Computer vision engineer, electronics engineer, DAAD alumnus, IEEE student, Erasmus+ scholar and potterhead."
-  location         : "San Sebastian, Spain"
+  location         : "Berlin, Germany"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
