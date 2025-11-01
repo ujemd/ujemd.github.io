@@ -1,6 +1,8 @@
 
 
-[//]: # (Currently finishing the second year of the Erasmus+ Mundus Joint Master's Degree in Image Processing and Computer Vision)
+[//]: # (Computer Vision Engineer)
+
+Some Text here.
 
 ## Education
 
@@ -10,6 +12,7 @@
 
 ## Research
 
+- Fraunhofer HHI - Human Motion Synthesis for Virtual Avatar Animation (01/2021 - 12/2025): Research and development of deep learning models and generative AI for synthesizing human motion and animation of virtual avatars in extended reality (XR) Scenarios. Best paper runners up award at CVMP 2024.
 - Vicomtech - Real-time Human Pose Estimation for Artistic Visual Effects (02/2020 - 06/2020): Development of deep learning applications for driving and generating visual effects in concerts and festivals.
 - Université de Bordeaux, Universidad Autónoma de Madrid, Pázmany Péter Katolikus Egyetem - Object Detection in Wide-angle/Immersive Image Formats (01/2019 - 12/2019): Analysis of effects of projections and distortions in object detection in omnidirectional images. Deep learning approaches for object detection in spherical images.
 - [Predicting the Quality of Fused Long Wave Infrared and Visible Light Images](https://ieeexplore.ieee.org/document/7904687): published in [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
@@ -17,7 +20,7 @@
 
 ## Experience
 
-- Fraunhofer HHI - Researcher (01/2021 - Present)
+- Fraunhofer HHI - Research Associate (01/2021 - Present): 
 - Vicomtech - Research Intern (02/2020 - 06/2020): Developer of digital media applications of audience interaction with visual effects during concerts and festivals.
 - VASS LATAM - Programmer SOA (10/2017 - 07/2018): Developer of key software components for AXA as a consultant programmer.
 - Continental Automotive GmbH - R&D Intern (04/2015 - 08/2015): Upgraded a software tool for reporting the performance of electronic control units in the department of fuel and exhaust management. Achieved greater insights of results and developed new test metrics.
