@@ -8,6 +8,12 @@ toc: true
 
 [//]: # (Computer Vision Engineer)
 
+Machine Learning specialist with an international master’s degree in Image Processing and Computer Vision, with over four years of experience in deep learning and generative AI for human motion synthesis, avatar animation and extended reality (XR) applications.
+
+I specialize in developing, evaluating, and optimizing neural network architectures for realistic motion generation and expressive virtual avatars. My work bridges applied research and innovation, contributing to collaborative projects that connect AI, computer graphics, and immersive technologies. I actively collaborate with engineers and domain experts to transfer research outcomes into practical XR and training contexts.
+
+With international research expertise and proficiency in different languages, I bring a global and interdisciplinary perspective to AI-driven innovation. I am motivated by advancing generative modeling techniques and transforming research into solutions that enhance interactive and human-centered digital experiences.
+
 ## Skills
 Machine learning & deep learning (Pytorch) | Generative models: VAEs, GANs, Normalizing Flows, Diffusion | LLMs | 3D data processing & motion capture analysis | Scientific dissemination | Cross-functional collaboration in interdisciplinary research groups | Languages: Spanish, English, German, French | Python, C++, Numpy, OpenCV 
 
