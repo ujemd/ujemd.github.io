@@ -57,16 +57,6 @@ Contributed to the development of a test reporting tool to analyze results from 
 - Pontificia Universidad Javeriana de Cali - BSc in Electronics Engineering (2010-2017): Honor distinction for Thesis _Natural Scene Statistics of Long Wave Infrared and Visible Images_, Merit awards.
 - Karslruhe Institute of Technology (2015): Exchange semester, DAAD scholarship.
 
-## Research
-
-- Fraunhofer HHI - Human Motion Synthesis for Virtual Avatar Animation (01/2021 - 12/2025): Research and development of deep learning models and generative AI for synthesizing human motion and animation of virtual avatars in extended reality (XR) Scenarios. [Best paper runners up award at CVMP 2024](https://dl.acm.org/doi/10.1145/3697294.3697309).
-- Vicomtech - Real-time Human Pose Estimation for Artistic Visual Effects (02/2020 - 06/2020): Development of deep learning applications for driving and generating visual effects in concerts and festivals.
-- Université de Bordeaux, Universidad Autónoma de Madrid, Pázmany Péter Katolikus Egyetem - Object Detection in Wide-angle/Immersive Image Formats (01/2019 - 12/2019): Analysis of effects of projections and distortions in object detection in omnidirectional images. Deep learning approaches for object detection in spherical images.
-- [Predicting the Quality of Fused Long Wave Infrared and Visible Light Images](https://ieeexplore.ieee.org/document/7904687): published in [IEEE Transactions on Image Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
-- [Statistics of Natural Fused Image Distortions](https://ieeexplore.ieee.org/document/7952355): presented at [ICASSP 2017](http://www.ieee-icassp2017.org/)
-
-
-
 ## Languages
 
 | Language  | Level   | Certificate |
@@ -74,7 +64,7 @@ Contributed to the development of a test reporting tool to analyze results from 
 | Spanish   | Native  |             |
 | English   | C1      | IELTS - 7.5 |
 | German    | B2      | TestDaF     |
-| French    | A1      |             |
+| French    | A2      |             |
 
 ## Programming Languages
 
