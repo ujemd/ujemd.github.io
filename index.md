@@ -11,7 +11,7 @@ Machine learning & deep learning (Pytorch) | Generative models: VAEs, GANs, Norm
 
 As a research associate at the Computer Vision and Graphics group, I conduct research in machine learning and deep learning, with a focus on virtual avatar animation for extended reality (XR), including applications in virtual training simulations, teleconferencing, and interactive storytelling. I collaborate cross-functionally with academic and industry partners on large-scale projects involving large language models (LLMs), generative models, and 3D human motion synthesis (e.g. LUMINOUS, SPIRIT, MoDL, INVICTUS). My work involves designing and implementing neural network architectures for realistic motion generation in avatar-based systems. I actively track developments in generative AI (e.g. diffusion models, transformers, GANs), integrating research advances into research workflows. I supervise students involved in ongoing research activities, including one current Master’s thesis under my guidance on transformer-based gesture synthesis for avatar animation. I disseminate research findings through internal seminars, partner meetings, and external conference workshops (e.g.Web3d, CVMP, EuroXR). I support project reporting, documentation, and technical communication with non-technical stakeholders.
 
-<Achievements>
+<details>
 
 - Co-authored a peer-reviewed paper on generative human motion synthesis, awarded Runner-Up Best Paper at CVMP 2024 for innovation in controlled motion generation.
 - Designed and benchmarked a GAN-based model for avatar animation from limited motion data captured in our studio, achieving 99-100% training coverage and increased global/local motion diversity with enhanced controllability.
@@ -21,7 +21,7 @@ As a research associate at the Computer Vision and Graphics group, I conduct res
 - Contributed to securing continued funding through high-impact grant deliverables, live research demos, and technical documentation.
 - Improved model generalization through custom data preprocessing and augmentation pipelines.
 
-</Achievements>
+</details>
 
 - Fraunhofer HHI - Research Associate (01/2021 - Present): 
 - Vicomtech - Research Intern (02/2020 - 06/2020): Developer of digital media applications of audience interaction with visual effects during concerts and festivals.
