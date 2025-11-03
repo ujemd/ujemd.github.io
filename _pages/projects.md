@@ -69,7 +69,7 @@ Showcase of some of the results of my work in Human Motion Synthesis.
 
 By training a sequence of generative adversarial networks (GANs), we generate new motion from limited training data, and even combine different types of motion. Here's an example of a walking motion that's completely generated.
 
-![cvmp](../hhi/walk.gif){:height="85%" width="85%"}
+![cvmp](../hhi/walk.gif){:height="70%" width="70%"}
 
 ## Augmented and Virtual Reality
 
