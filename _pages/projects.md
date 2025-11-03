@@ -3,6 +3,13 @@ permalink: /projects/
 title: "Projects"
 excerpt: " "
 layout: single
+hhi_gallery:
+  - url: ../hhi/tokenization.gif
+    image_path: ../hhi/tokenization.gif
+    alt: "Tokenization results"
+  - url: ../hhi/walk.gif
+  - image_path: ../hhi/walk.gif
+  - alt: "Synthesis from limited data"
 mst_gallery:
   - url: ../mst/mst_1.gif
     image_path: ../mst/mst_1.gif
@@ -55,6 +62,14 @@ complex_gallery:
     alt: "r1"
 toc: true
 ---
+
+## Human Motion Synthesis
+
+Showcase of some of the results of my work in Human Motion Synthesis.
+
+By training a sequence of generative adversarial networks (GANs), we generate new motion from limited training data, and even combine different types of motion. Here's an example of a walking motion that's completely generated.
+
+![cvmp](../hhi/walk.gif){:height="85%" width="85%"}
 
 ## Augmented and Virtual Reality
 
