@@ -110,16 +110,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:david.moreno@ieee.org
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ujemd.github.io/projects"
+      url: mailto:david.moreno@ieee.org    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ujemd?tab=repositories"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/david-moreno-villamarin/"
+    - label: "Medium"
+      icon: "fas fa-fw fa-link"
+      url: "https://medium.com/@david.moreno_68360"
 
 
 # Site Footer
