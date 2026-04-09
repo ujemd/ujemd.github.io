@@ -4,12 +4,15 @@ title: "Projects"
 excerpt: " "
 layout: single
 hhi_gallery:
+  - url: ../tokenizer.gif
+    image_path: ../hhi/tokenizer.gif
+    alt: "Body part tokenizer"
   - url: ../hhi/tokenization.gif
     image_path: ../hhi/tokenization.gif
     alt: "Tokenization results"
   - url: ../hhi/walk.gif
-  - image_path: ../hhi/walk.gif
-  - alt: "Synthesis from limited data"
+    image_path: ../hhi/walk.gif
+    alt: "Synthesis from limited data"
 mst_gallery:
   - url: ../mst/mst_1.gif
     image_path: ../mst/mst_1.gif
@@ -63,11 +66,34 @@ complex_gallery:
 toc: true
 ---
 
-## Human Motion Synthesis
+## Motion Tokenization & Gesture Synthesis
 
-Showcase of some of the results of my work in Human Motion Synthesis.
+*Work developed at Fraunhofer HHI as part of my research on human motion synthesis.*
 
-By training a sequence of generative adversarial networks (GANs), we generate new motion from limited training data, and even combine different types of motion. Here's an example of a walking motion that's completely generated.
+### Motion Tokenizer
+
+A discrete motion tokenizer for human body sequences, designed to produce compact, semantically meaningful representations of motion. The tokenizer serves as a reusable backbone for downstream generative tasks.
+
+![tk](../hhi/tokenizer.gif){:height="70%" width="70%"}
+
+### Co-speech Gesture Synthesis *(Supervised thesis project)*
+
+Built on top of the motion tokenizer above, this work was carried out by a student I supervised. The system synthesizes full-body gestures conditioned on speech audio, leveraging the discrete motion representation as its generative backbone.
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:70%;">
+  <iframe 
+    src="https://www.youtube.com/embed/KGYSLnqe4os"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<br>
+
+## Human Motion Synthesis (GANs)
+
+Earlier work on generating human motion from limited training data using a sequential GAN architecture. Results include full walking cycles synthesized entirely from the model. This work was published at [CVMP 2024](https://dl.acm.org/doi/10.1145/3697294.3697309) and received the **Runner-Up Best Paper Award**.
 
 ![cvmp](../hhi/walk.gif){:height="70%" width="70%"}
 
