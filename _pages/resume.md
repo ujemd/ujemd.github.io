@@ -30,20 +30,20 @@ Python (8+ years) | C++ | NumPy | OpenCV | Git | TensorBoard | Inference Pipelin
 
 Developed and trained deep generative models (GANs, diffusion, transformers) for human motion synthesis and avatar animation, contributing to 4 EU-funded projects ([LUMINOUS](https://luminous-horizon.eu/), [SPIRIT](https://spirit-project.eu/), [MoDL](https://www.hhi.fraunhofer.de/en/departments/vit/projects/modl.html), INVICTUS) spanning AI, XR, and interactive media. 
 
-•	Developed a modular motion tokenizer achieving 43.6% improvement in hand reconstruction and 42.1% in lower-body accuracy (MPVPE) over baseline; adopted as the backbone for a subsequent gesture synthesis system and ongoing integration into a project pipeline.
-•	Built and benchmarked a GAN-based motion synthesis model trained on performance capture data, improving motion diversity by 7.3% and training coverage (motion fidelity) from 88-98% to 99-100% compared to baseline, with improved motion controllability and physical realism.
-•	Mentored a Master’s student on transformer-based co-speech gesture synthesis, delivering a working system on the motion tokenizer.
-•	Produced technical documentation, progress reports, and milestone deliverables for EU project partners and non-technical stakeholders.
-•	Presented technical results to 15+ academic and industry partners across AI, XR, and simulation domains; represented the group at  [Web3d](https://web3d.siggraph.org/archive/web3d2024/index.html), [CVMP](https://www.cvmp-conference.org/2024/), and [EuroXR](https://www.euroxr.org/previous-edition-conference2025).
-•	Co-authored a peer-reviewed [paper](https://dl.acm.org/doi/10.1145/3697294.3697309) awarded a Runner-Up Best Paper at CVMP 2024.
+- Developed a modular motion tokenizer achieving 43.6% improvement in hand reconstruction and 42.1% in lower-body accuracy (MPVPE) over baseline; adopted as the backbone for a subsequent gesture synthesis system and ongoing integration into a project pipeline.
+- Built and benchmarked a GAN-based motion synthesis model trained on performance capture data, improving motion diversity by 7.3% and training coverage (motion fidelity) from 88-98% to 99-100% compared to baseline, with improved motion controllability and physical realism.
+- Mentored a Master’s student on transformer-based co-speech gesture synthesis, delivering a working system on the motion tokenizer.
+- Produced technical documentation, progress reports, and milestone deliverables for EU project partners and non-technical stakeholders.
+- Presented technical results to 15+ academic and industry partners across AI, XR, and simulation domains; represented the group at  [Web3d](https://web3d.siggraph.org/archive/web3d2024/index.html), [CVMP](https://www.cvmp-conference.org/2024/), and [EuroXR](https://www.euroxr.org/previous-edition-conference2025).
+- Co-authored a peer-reviewed [paper](https://dl.acm.org/doi/10.1145/3697294.3697309) awarded a Runner-Up Best Paper at CVMP 2024.
 
 ### Vicomtech, Spain. Computer Vision Intern & Master's Thesis (February 2020 – June 2020)
 
 Built a real-time generative system for live artistic performance, integrating pose estimation, GAN-visual synthesis, and audio feature extraction into a unified interactive pipeline.
 
-•	Trained StyleGAN on custom datasets to produce domain-specific visual styles for live output; optimized inference pipeline to sustain 15-30 FPS under real-time performance constraints.
-•	Integrated multi-person pose estimation and audio feature extraction as multimodal conditioning inputs for dynamic latent space manipulation.
-•	Delivered a fully functional prototype to a cultural venue partner, demonstrated live for potential deployment in a public installation.
+- Trained StyleGAN on custom datasets to produce domain-specific visual styles for live output; optimized inference pipeline to sustain 15-30 FPS under real-time performance constraints.
+- Integrated multi-person pose estimation and audio feature extraction as multimodal conditioning inputs for dynamic latent space manipulation.
+- Delivered a fully functional prototype to a cultural venue partner, demonstrated live for potential deployment in a public installation.
 
 ### Université de Bordeaux, France. Student Researcher (January 2019 – December 2019)
 
