@@ -8,39 +8,42 @@ toc: true
 
 [//]: # (Computer Vision Engineer)
 
-Machine Learning specialist with an international master’s degree in Image Processing and Computer Vision, with over four years of experience in deep learning and generative AI for human motion synthesis, avatar animation and extended reality (XR) applications.
+Machine Learning Engineer with 5+ years of experience designing and training deep generative models, with a Master's degree in Image Processing and Computer Vision. Proven track record building end-to-end ML pipelines across research and cross-functional industry projects in Germany and internationally.
 
-I specialize in developing, evaluating, and optimizing neural network architectures for realistic motion generation and expressive virtual avatars. My work bridges applied research and innovation, contributing to collaborative projects that connect AI, computer graphics, and immersive technologies. I actively collaborate with engineers and domain experts to transfer research outcomes into practical XR and training contexts.
+Core expertise in generative modeling (GANs, diffusion models, VAEs), sequence learning, and computer vision, applied to domains including human motion, 3D data, and multimodal systems. Experienced collaborating with engineers, domain experts, and academic partners to take models from prototype to deployable output.
 
-With international research expertise and proficiency in different languages, I bring a global and interdisciplinary perspective to AI-driven innovation. I am motivated by advancing generative modeling techniques and transforming research into solutions that enhance interactive and human-centered digital experiences.
+Published researcher (CVMP 2024 Runner-Up Best Paper) with a bias toward practical impact: clean, reusable model architectures, rigorous evaluation, and cross-domain transferability.
 
 ## Skills
-Machine learning & deep learning (Pytorch) | Generative models: VAEs, GANs, Normalizing Flows, Diffusion | LLMs | 3D data processing & motion capture analysis | Scientific dissemination | Cross-functional collaboration in interdisciplinary research groups | Languages: Spanish, English, German, French | Python, C++, Numpy, OpenCV 
+### ML & AI
+PyTorch | Deep Learning | Generative Models (GANs, VAEs, Diffusion Models, Normalizing Flows) | Transformers | LLMs | Computer Vision
+
+### 3D & Motion
+3D Data Processing | Motion Capture Analysis | SMPL/Body Models | Pose Estimation | Avatar Animation
+
+### Engineering
+Python (8+ years) | C++ | NumPy | OpenCV | Git | TensorBoard | Inference Pipeline Optimization
 
 ## Experience
 
-### Fraunhofer HHI, Germany. Research Associate (January 2021 – Present)
+### Fraunhofer HHI, Germany. Research Associate (January 2021 – December 2025)
 
-As a research associate at the Computer Vision and Graphics group, I conduct research in generative AI (genAI), with a focus on virtual avatar animation for extended reality (XR), including applications in virtual training simulations, teleconferencing, and interactive storytelling. I collaborate cross-functionally with academic and industry partners on large-scale projects involving large language models (LLMs), generative models, and 3D human motion synthesis (e.g. [LUMINOUS](https://luminous-horizon.eu/), [SPIRIT](https://spirit-project.eu/), [MoDL](https://www.hhi.fraunhofer.de/en/departments/vit/projects/modl.html), INVICTUS). My work involves designing and implementing neural network architectures for realistic motion generation in avatar-based systems. I actively track developments in generative AI (e.g. diffusion models, transformers, GANs), integrating research advances into research workflows. I supervise students involved in ongoing research activities, including one current Master’s thesis under my guidance on transformer-based gesture synthesis for avatar animation. I disseminate research findings through internal seminars, partner meetings, and external conference workshops (e.g. [Web3d](https://web3d.siggraph.org/archive/web3d2024/index.html), [CVMP](https://www.cvmp-conference.org/2024/), [EuroXR](https://www.euroxr.org/previous-edition-conference2025)). I support project reporting, documentation, and technical communication with non-technical stakeholders.
-  
-Achievements:
-- Co-authored a peer-reviewed [paper](https://dl.acm.org/doi/10.1145/3697294.3697309) on generative human motion synthesis, awarded Runner-Up Best Paper at CVMP 2024 for innovation in controlled motion generation.
-- Designed and benchmarked a GAN-based model for avatar animation from limited motion data captured in our studio, achieving 99-100% training coverage and increased global/local motion diversity with enhanced controllability.
-- Integrated feet contact modeling and motion constraints to improve physical realism and motion continuity in synthesized human avatars.
-- Collaborated with 15+ academic and industry partners across AI, HCI, XR, healthcare, and training sectors in EU-funded multi-institutional research initiatives.
-- Presented research outcomes at EuroXR, Web3D, and CVMP, and led technical dissemination to partners and stakeholders.
-- Contributed to securing continued funding through high-impact grant deliverables, live research demos, and technical documentation.
-- Improved model generalization through custom data preprocessing and augmentation pipelines.
+Developed and trained deep generative models (GANs, diffusion, transformers) for human motion synthesis and avatar animation, contributing to 4 EU-funded projects ([LUMINOUS](https://luminous-horizon.eu/), [SPIRIT](https://spirit-project.eu/), [MoDL](https://www.hhi.fraunhofer.de/en/departments/vit/projects/modl.html), INVICTUS) spanning AI, XR, and interactive media. 
 
-### Vicomtech, Spain. Computer Vision Intern (February 2020 – June 2020)
+•	Developed a modular motion tokenizer achieving 43.6% improvement in hand reconstruction and 42.1% in lower-body accuracy (MPVPE) over baseline; adopted as the backbone for a subsequent gesture synthesis system and ongoing integration into a project pipeline.
+•	Built and benchmarked a GAN-based motion synthesis model trained on performance capture data, improving motion diversity by 7.3% and training coverage (motion fidelity) from 88-98% to 99-100% compared to baseline, with improved motion controllability and physical realism.
+•	Mentored a Master’s student on transformer-based co-speech gesture synthesis, delivering a working system on the motion tokenizer.
+•	Produced technical documentation, progress reports, and milestone deliverables for EU project partners and non-technical stakeholders.
+•	Presented technical results to 15+ academic and industry partners across AI, XR, and simulation domains; represented the group at  [Web3d](https://web3d.siggraph.org/archive/web3d2024/index.html), [CVMP](https://www.cvmp-conference.org/2024/), and [EuroXR](https://www.euroxr.org/previous-edition-conference2025).
+•	Co-authored a peer-reviewed [paper](https://dl.acm.org/doi/10.1145/3697294.3697309) awarded a Runner-Up Best Paper at CVMP 2024.
 
-Conducted applied research in computer vision and real-time generative systems for artistic performance contexts. Developed a working prototype that captured audience body movements using a multi-person pose estimation model, which guided dynamic 3D effects and modulated the latent space of a pre-trained GAN to generate real-time stylized visuals. Extracted musical features to further drive synthesis and sync animations with live sound. Integrated a face motion transfer model as an experimental extension for additional avatar animation capabilities. Worked under the supervision of the Digital Media Department and in collaboration with a cultural venue partner.
+### Vicomtech, Spain. Computer Vision Intern & Master's Thesis (February 2020 – June 2020)
 
-Achievements: 
-- Retrained StyleGAN on custom datasets to offer specific visual styles and animations for live artistic output.
-- Optimized and repurposed open-source models for real-time performance constraints, maintaining frames of ~15-30 FPS.
-- Presented a live prototype to a partner venue for potential deployment in public installations.
-- Delivered a fully functional prototype demonstrating multimodal interaction (pose and audio) for artistic generation.
+Built a real-time generative system for live artistic performance, integrating pose estimation, GAN-visual synthesis, and audio feature extraction into a unified interactive pipeline.
+
+•	Trained StyleGAN on custom datasets to produce domain-specific visual styles for live output; optimized inference pipeline to sustain 15-30 FPS under real-time performance constraints.
+•	Integrated multi-person pose estimation and audio feature extraction as multimodal conditioning inputs for dynamic latent space manipulation.
+•	Delivered a fully functional prototype to a cultural venue partner, demonstrated live for potential deployment in a public installation.
 
 ### Université de Bordeaux, France. Student Researcher (January 2019 – December 2019)
 
@@ -61,9 +64,9 @@ Achievements:
 
 ### Continental Automotive GmbH, Germany. R&D Intern (April 2015 – July 2015)
 
-Contributed to the development of a test reporting tool to analyze results from electronic control units (ECUs). Enhanced reporting features using C# and the .NET framework to generate Excel-based statistics, enabling deeper insights into test performance. Gained experience in automotive testing workflows, object-oriented programming, and software development practices in a multicultural R&D environment.
+Built reporting tooling for electronic control units (ECUs) test analysis using C# and .NET, generating Excel-based statistical summaries to support automotive testing workflows.
 
-## Education
+## Academic Training
 
 - Université de Bordeaux, Universidad Autónoma de Madrid, Pázmany Péter Katolikus Egyetem - [MSc Image Processing and Computer Vision](http://ipcv.eu) (2018 - 2020): Fully funded Erasmus+ student.
 - Pontificia Universidad Javeriana de Cali - BSc in Electronics Engineering (2010-2017): Honor distinction for Thesis _Natural Scene Statistics of Long Wave Infrared and Visible Images_, Merit awards.
@@ -88,14 +91,13 @@ Contributed to the development of a test reporting tool to analyze results from 
 | C         | 2+ years  |
 | C#        | 1+ years  |
 
-**Data Science:** PyTorch, Numpy, Pandas, SciKit Learn, Keras, Tensorflow
+## Awards & Recognition
 
-## Awards
+- Runner-Up Best Paper Award, CVMP 2024. Recognized for innovation in generative motion synthesis.
+- Erasmus+ Joint Master’s Degree Scholarship, 2018-2020. Competitive full scholarship for international MSc program across three European universities.
+- DAAD Young Engineers Scholarship, 2014-2015. Full sponsorship for academic at KIT, Germany.
+- Top Graduating Student in Electrical and Electronics Engineering, 2017, Pontificia Universidad Javeriana.
+- Undergraduate Thesis Honor Distinction, 2016. Outstanding research recognition; led to publication in IEEE Transactions on Image Processing and presentation at ICASSP 2017.
+- ICASSP 2017 Travel Grant and Conference Presentation, New Orleans, USA. Presented thesis research at IEEE flagship signal processing conference.
 
-- Runner-Up Best Paper Award, CVMP 2024. Recognized for innovation in generative motion synthesis and avatar animation.
-- Erasmus+ Joint Master’s Degree Scholarship, 2018-2020. Awarded competitive full scholarship for international study in Image Processing and Computer Vision.
-- Top Graduating Student in Electrical and Electronics Engineering, 2017, Pontificia Universidad Javeriana (Cali, Colombia).
-- Undergraduate Thesis Honor Distinction, 2016. Recognized for outstanding research on image quality evaluation, leading to publication in IEEE Transactions on Image Processing.
-- ICASSP 2017 Travel Grant and Conference Presentation, New Orleans, USA. Supported to present thesis research at an international flagship conference.
-- DAAD (Deutscher Akademischer Austausch Dienst) Young Engineers Scholarship, 2014-2015. Awarded full sponsorship for academic exchange program in Germany.
 
